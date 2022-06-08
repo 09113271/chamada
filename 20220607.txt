@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 Ana Gabriela Costa
 Gabriel Castilho
-=======
+
 Renan de Oliveira Salvador
->>>>>>> 89cd741478cd9a1f9173194dd328d2ea881f1357
+
